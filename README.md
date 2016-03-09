@@ -21,7 +21,8 @@ An Interpreter for Bash - Coded entirely in C# - compatible with .Net framework 
        - [ ] Forward (\033[<N>C)
        - [ ] Backward (\033[<N>B)
        - [ ] Position (\033[<L>;<C>f)
- - [x] Accept different all escape variants
+ - [x] Escaping 
+   - [x] Accept different all escape variants
     - [x] \e
     - [x] \033
   
