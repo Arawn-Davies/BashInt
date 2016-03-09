@@ -12,6 +12,15 @@ An Interpreter for Bash - Coded entirely in C# - compatible with .Net framework 
 - [ ] Modular Structure
  - [ ] Struct
  - [x] dll parsing
+- [x] Display
+ - [ ] printf/echo -e Commands (see below) 
+ - [x] Print System: Rich TextBox
+ - [ ] More efficient printing - own component (postponded due to the lesser overhead of current system)
+- [x] Debugger
+ - [x] Syntax Highlighting
+ - [x] Current LOC display
+ - [x] Automatic Scrolling
+ - [x] Estimate % execution bar
 
 ### SH/BASH Components Checklist:
 
