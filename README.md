@@ -38,7 +38,7 @@ An Interpreter for Bash - Coded entirely in C# - compatible with .Net framework 
        - [ ] Backward (\033[<N>B)
        - [ ] Position (\033[<L>;<C>f)
  - [x] Escaping 
-   - [x] Accept different all escape variants
+   - [x] Accept different all escape variants (unicode, ascii, etc...)
     - [x] \e
     - [x] \033
   
