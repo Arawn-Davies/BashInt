@@ -3,8 +3,15 @@ An Interpreter for Bash - Coded entirely in C# - compatible with .Net framework 
 
 ### Checklist:
 - [x] Functions
+ - [x] Functions Selector and Parser
+ - [x] Function Calls
+ - [ ] Argument Passing
 - [ ] Variables
+ - [x] Variable Parsing 
+ - [ ] Indexing
 - [ ] Modular Structure
+ - [ ] Struct
+ - [x] dll parsing
 
 ### SH/BASH Components Checklist:
 
