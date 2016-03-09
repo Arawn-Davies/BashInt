@@ -1,5 +1,6 @@
 # BashInt
 An Interpreter for Bash - Coded entirely in C# - compatible with .Net framework 2.0+
+![BashInt](http://i.snag.gy/s47Bt.jpg)
 
 ### Checklist:
 - [x] Functions
